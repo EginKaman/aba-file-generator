@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EginKaman\AbaFileGenerator\Model;
+namespace EginKaman\AbaFileGenerator;
 
 use EginKaman\AbaFileGenerator\Contracts\Transaction as TransactionContract;
 
